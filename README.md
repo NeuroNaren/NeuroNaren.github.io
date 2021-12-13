@@ -1,3 +1,9 @@
+# Narendra Kumar 
+
+<img width="200" src="Naren_Pic.jpg">
+
+## CV
+
 <p style="text-align: justify;"><span style="color: #000080;"><strong>Area of Research</strong></span><br /><span style="color: #000000;">Neurocognition of Semantic Processing during language comprehension.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000080;">Areas of Interest</span></h4>
 <p style="padding-left: 30px; text-align: justify;"><span style="color: #000000;">Neurocognition of Language, Neurolinguistics, Natural Language Processing, Syntax, Syntactic Typology, Semantics, Formal Semantics, Technical Communication, Scientific/Technical Writing</span></p>
