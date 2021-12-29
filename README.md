@@ -12,7 +12,7 @@
 <li style="text-align: justify;"><span style="color: #000000;"><strong>Computing:</strong>  Windows, Linux (Ubuntu), MAC, Windows Server, High Performance Computing (HPC)</span></li>
 <li style="text-align: justify;"><span style="color: #000000;"><strong>Matlab:  </strong>Basics, Statistics Toolbox, EEGLAB toolbox, ERPLAB Toolbox, fieldtrip</span></li>
 <li style="text-align: justify;"><span style="color: #000000;"><strong>Stimulus Presentation:</strong> E-Prime, Psychtoolbox, PsychoPy, Linger</span></li>
-<li style="text-align: justify;"><span style="color: #000000;"><strong>Statistical Analysis: </strong>SPSS, R </span></li>
+<li style="text-align: justify;"><span style="color: #000000;"><strong>Statistical Analysis: </strong>SPSS, R, JASP </span></li>
 <li style="text-align: justify;"><span style="color: #000000;"><strong>Programming Languages: </strong>Python (Basic) for NLTK</span></li>
 <li style="text-align: justify;"><span style="color: #000000;"><strong>Neuroimaging Technology:</strong> EEG (EGI, Brain Product), fMRI </span></li>
 <li style="text-align: justify;"><span style="color: #000000;"><strong>Eye-tracking: </strong>Tobii Eye-Tracker</span></li>
