@@ -62,6 +62,7 @@
 </ul>
 <h4 style="text-align: justify;"><span style="color: #000080;"><strong>Conferences / Workshop Participated</strong></span></h4>
 <ul style="text-align: justify;">
+<li>Presented (virtually) a paper titled <b>"Distinct Neural Response for Licensing -se as Instrumental and Intermediate agent" </b>in the form of an <i>Oral Talk </i>in<i>  </i><b>43rd ICOLSI 2021,</b> on 23rd Decebmer 2021. organised by the <span style="font-family: georgia, serif; font-size: medium;">Central Institute of Indian Languages (CIIL), Mysore, India</span></li>
 <li>Presented (virtually) a paper titled <b>"Neural correlates of Animacy-based Split-locativity" </b>in the form of an <i>Oral Talk </i>in<i>  </i><b>SAFAL 2021,</b> on 31st August 2021. organised by the <span style="font-family: georgia, serif; font-size: medium;">University of Potsdam, Germany</span></li>
 <li>Presented (virtually) a paper titled <b>"The Predictive Nature of Hindi Case Markers" </b>in the form of an Oral Talk in <b>42nd ICOLSI </b>organised by GLA Mathura.</li>
 <li><span style="color: #000000; font-family: georgia, serif; font-size: small;">Participated in TEQIP-III sponsored one-week </span><span style="font-family: georgia, serif; font-size: small;"><b>Faculty</b><b> Development Program on "Pedagogical Approaches in Science, Technology, Engineering &amp; Management</b>” Organised by BIET  Jhansi, from 04-08 October 2018</span></li>
